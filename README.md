@@ -52,5 +52,6 @@ The head of analytics in your organization has specifically asked you to do the 
 7. Predict the `CO2` levels (at each African region) in the year 2025.
 8. Determine if `CO2` levels affect annual `temperature` in the selected African countries.
 
-Project Description
+### Project Description
+
 This project analyzes the relationship between temperature and CO2 emissions for four African countries: Ethiopia, Mozambique, Nigeria, and Tunisia. The analysis uses data to create a scatter plot of temperature vs log base 10 of CO2 emissions for each country. The scatter plot shows a positive correlation between temperature and CO2 emissions for all countries.
